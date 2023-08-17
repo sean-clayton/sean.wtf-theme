@@ -99,9 +99,10 @@
         "default": true,
         "group": "post"
       },
-      "show_header": {
+      "show_homepage_cover": {
         "type": "boolean",
-        "default": false
+        "default": false,
+        "group": "homepage"
       },
       "footer_text": {
         "type": "text"
