@@ -8,9 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ghost Foundation",
-    "email": "hello@ghost.org",
-    "url": "https://ghost.org"
+    "name": "Sean-Patrick Ortencio Clayton",
+    "email": "yo@sean.wtf",
+    "url": "https://www.sean.wtf"
   },
   "keywords": [
     "ghost",
@@ -57,7 +57,7 @@
           "Modern sans-serif",
           "Elegant serif"
         ],
-        "default": "Modern sans-serif"
+        "default": "Elegant serif"
       },
       "body_font": {
         "type": "select",
@@ -65,7 +65,7 @@
           "Modern sans-serif",
           "Elegant serif"
         ],
-        "default": "Modern sans-serif"
+        "default": "Elegant serif"
       },
       "color_scheme": {
         "type": "select",
@@ -100,8 +100,7 @@
         "group": "post"
       },
       "footer_text": {
-        "type": "text",
-        "default": "All content is availbe under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution ShareAlike license.</a>"
+        "type": "text"
       }
     }
   },
