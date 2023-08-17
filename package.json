@@ -99,6 +99,10 @@
         "default": true,
         "group": "post"
       },
+      "show_header": {
+        "type": "boolean",
+        "default": false
+      },
       "footer_text": {
         "type": "text"
       }
