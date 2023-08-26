@@ -1,3 +1,10 @@
 .gh-foot {
   white-space: initial;
 }
+
+.gh-foot-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  font-size: 1.3rem;
+}

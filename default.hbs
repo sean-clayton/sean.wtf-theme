@@ -87,9 +87,13 @@
                     {{navigation type="secondary"}}
                 </nav>
             {{/if}}
+            {{#if @custom.footer_text}}
+                <div class="wtf-footer-text">
+                    {{@custom.footer_text}}
+                </div>
+            {{/if}}
         </div>
         <div class="gh-foot-inner gh-inner">
-            {{@custom.footer_text}}
         </div>
     </footer>
 
