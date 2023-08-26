@@ -103,9 +103,6 @@
         "type": "boolean",
         "default": false,
         "group": "homepage"
-      },
-      "footer_text": {
-        "type": "text"
       }
     }
   },
