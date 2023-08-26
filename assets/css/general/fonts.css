@@ -61,7 +61,7 @@
 
 @font-face {
   font-family: "Alegreya Sans";
-  src: local("Alegreya Sans Thin Italic"), local("AlegreyaSans-ThinItalic"
+  src: local("Alegreya Sans Thin Italic"), local("AlegreyaSans-ThinItalic"),
     url("../fonts/AlegreyaSans-ThinItalic.woff2") format("woff2");
   font-weight: 100;
   font-style: italic;
@@ -69,7 +69,7 @@
 
 @font-face {
   font-family: "Alegreya Sans";
-  src: local("Alegreya Sans Bold Italic"), local("AlegreyaSans-BoldItalic"
+  src: local("Alegreya Sans Bold Italic"), local("AlegreyaSans-BoldItalic"),
     url("../fonts/AlegreyaSans-BoldItalic.woff2") format("woff2");
   font-weight: bold;
   font-style: italic;
@@ -85,7 +85,7 @@
 
 @font-face {
   font-family: "Alegreya Sans";
-  src: local("Alegreya Sans Light Italic"), local("AlegreyaSans-LightItalic
+  src: local("Alegreya Sans Light Italic"), local("AlegreyaSans-LightItalic"),
     url("../fonts/AlegreyaSans-LightItalic.woff2") format("woff2");
   font-weight: 300;
   font-style: italic;
@@ -93,7 +93,7 @@
 
 @font-face {
   font-family: "Alegreya Sans";
-  src: local("Alegreya Sans Medium Italic"), local("AlegreyaSans-MediumItali
+  src: local("Alegreya Sans Medium Italic"), local("AlegreyaSans-MediumItalic"),
     url("../fonts/AlegreyaSans-MediumItalic.woff2") format("woff2");
   font-weight: 500;
   font-style: italic;
@@ -117,7 +117,7 @@
 
 @font-face {
   font-family: "Alegreya Sans";
-  src: local("Alegreya Sans Black Italic"), local("AlegreyaSans-BlackItalic
+  src: local("Alegreya Sans Black Italic"), local("AlegreyaSans-BlackItalic"),
     url("../fonts/AlegreyaSans-BlackItalic.woff2") format("woff2");
   font-weight: 900;
   font-style: italic;
@@ -130,4 +130,3 @@
   font-weight: 100;
   font-style: normal;
 }
-
