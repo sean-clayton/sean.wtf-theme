@@ -103,6 +103,12 @@
         "type": "boolean",
         "default": false,
         "group": "homepage"
+      },
+      "mastodon_url": {
+        "type": "text"
+      },
+      "github_url": {
+        "type": "text"
       }
     }
   },
