@@ -5,6 +5,11 @@
 .gh-foot-inner {
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 40px;
   font-size: 1.3rem;
+}
+
+.wtf-footer-text {
+  text-align: center;
 }
